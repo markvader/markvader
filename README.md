@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mark B, currently studying for a PgCert in Professional Software Development with Data Science. Really enjoying Java and learning to like python and data science.
+I'm Mark B, Recently finished a PgCert in Professional Software Development with Data Science. Really enjoying Java and learning to like python and data science.
 
 I have a strong interest in Diabetes Technology and am a contributor to various opensource projects in the DIY Artifical Pancreas world.  Closed loop systems are the (near) future for Diabetes and its here for the bold and the brave now.
 
