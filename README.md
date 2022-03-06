@@ -8,3 +8,5 @@ I have a strong interest in diabetes technology and try to contribute to various
 Much more to come.
 
 Mark
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markvader&count_private=true&show_icons=true)](https://github.com/markvader)
