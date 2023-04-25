@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mark B, I am currently retraining in Data Engineering & Data Science having worked in a non-IT related field for 15 years. I really like to dabble in many areas with software and contribute to a variety of projects in hardware (C++), Home Automation (mainly Python) & Medical Software (Java & User Documentation).
+I'm Mark B, I now work in Data Engineering & SysOps having worked previously in non-IT related fields for 15 years. I really like to dabble in many areas with software and contribute to a variety of projects in hardware (C++), Home Automation (mainly Python) & Medical Software (Java & User Documentation).
 
 I have a strong interest in diabetes technology (having had type 1 Diabetes for over 22 years) and try to contribute to various opensource projects in the DIY Artifical Pancreas world and support the users of these systems.  Commercial closed loop systems are the (near) future for Diabetes and DIY systems are here for the bold and the brave now. I use [AndroidAPS](https://github.com/nightscout/AndroidAPS), [xDrip+](https://github.com/NightscoutFoundation/xDrip) & [Nightscout](https://github.com/markvader/cgm-remote-monitor)
 
